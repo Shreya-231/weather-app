@@ -2,6 +2,9 @@
 
 A modern, responsive weather application built with HTML, CSS, and JavaScript using OpenWeatherMap API. Features glassmorphism design, smooth animations, and perfect mobile responsiveness.
 
+ ✨ Live Demo
+🔗 View Demo (https://shreya-231.github.io/weather-app/)
+ 
 🌟 Features
 ✅ Real-time weather data from OpenWeatherMap API
 📱 Fully responsive - Perfect on Desktop, Tablet, Mobile
